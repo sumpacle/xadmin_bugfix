@@ -8,7 +8,7 @@ setup(
     name='xadmin',
     version='2.0.1',
     description='Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.',
-    long_description=open('README.rst', encoding='utf-8').read(),
+    long_description=open('README.md', encoding='utf-8').read(),
     author='sshwsfc',
     author_email='sshwsfc@gmail.com',
     license=open('LICENSE', encoding='utf-8').read(),
